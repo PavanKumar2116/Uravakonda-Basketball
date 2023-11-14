@@ -23,8 +23,6 @@ h1{
   }
 body{
     background-image: url(UBA1.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 h2,h3{
     color: aliceblue;
