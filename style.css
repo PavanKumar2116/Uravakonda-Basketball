@@ -1,0 +1,62 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+.BB{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 20px;
+  }
+  
+.BB{
+    float: right;
+  }
+  
+.BB a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+body{
+    background-image: url(UBA1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h2,h3{
+    color: aliceblue;
+    font-size: 40px;
+}
+p{
+    color: aliceblue;
+    font-size: 25px;
+    font: bolder;
+    font-style: oblique;
+}
+.Pavan{
+
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+.New{
+    color: aliceblue;
+    font-size: 40px;
+}
+.New1{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+}
+.jojo a{
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+
+}
+.jojo p{
+    text-align: center;
+}
