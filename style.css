@@ -59,4 +59,10 @@ p{
 .jojo p{
     text-align: center;
 }
+.jojo img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
